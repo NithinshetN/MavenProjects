@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of a constructor in Java?",
+    "option": [
+      "To create objects of the class",
+      "To define instance variables",
+      "To declare methods",
+      "To write comments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which keyword is used to declare a constant in Java?",
+    "option": [
+      "constant",
+      "final",
+      "static",
+      "constant"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the default value of a boolean variable in Java?",
+    "option": [
+      "true",
+      "false",
+      "0",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Which data type is used to store single characters in Java?",
+    "option": [
+      "char",
+      "string",
+      "byte",
+      "int"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "In Java, which keyword is used for inheritance?",
+    "option": [
+      "extends",
+      "implements",
+      "inherits",
+      "inheritsFrom"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the `break` statement in Java?",
+    "option": [
+      "To end a loop prematurely",
+      "To skip the current iteration of a loop",
+      "To exit the program",
+      "To create a new loop"
+    ],
+    "answer": 1
+  }
+]

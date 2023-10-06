@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d39d6884-350c-47be-82e9-e4b9c5e5129e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/IplStatsManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/domain/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/dto/PlayerCountryStatsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/dto/RoleStatsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/dto/TeamStatsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/service/IplStatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/service/IplStatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipl-stats/src/main/java/com/monetize/iplstats/util/JsonReaderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/cbook/dao/ContactDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/cbook/dao/ContactDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/cbook/util/DbConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/cbook-app/src/main/java/com/monetize/cbook/util/DbConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbook-app/src/test/java/com/monetize/cbook/dao/ContactDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cbook-app/src/test/java/com/monetize/cbook/dao/ContactDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basics/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ipl-stats/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basics/src/main/java/com/monetize/jbasics/loops/MultiplicationOfTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/src/main/java/com/monetize/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/src/main/resources/gk_quiz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/src/main/resources/java_quiz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-quiz-app/src/main/resources/sport_quiz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-database/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-database/src/main/java/com/monetize/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ipl-stats/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/java/com/monetize/jwjson/IplStatService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/java/com/monetize/jwjson/JsonReaderUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/java/com/monetize/jwjson/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/java/com/monetize/jwjson/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/java/com/monetize/jwjson/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/resources/player_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ipl-stats/src/main/resources/player_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-with-json/src/main/resources/user.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WNMBeuiPjNU4yLEsAvUX8KuPtL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d39d6884-350c-47be-82e9-e4b9c5e5129e" name="Changes" comment="" />
+      <created>1696568449584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696568449584</updated>
+    </task>
+    <servers />
+  </component>
+</project>
